@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon GreenApi/index.js",
-    "start": "node GreenApi/index.js"
+    "dev": "nodemon backend/index.js",
+    "start": "node backend/index.js"
   },
   "keywords": [],
   "author": "",
